@@ -56,7 +56,7 @@
     "@searchkit/instantsearch-client": "^4.14.0",
     "@types/chart.js": "^2.9.41",
     "@xyflow/react": "^12.0.2",
-    "ai": "^3.4.12",
+    "ai": "^7.0.151",
     "chart.js": "^4.4.3",
     "concurrently": "^8.2.2",
     "cytoscape": "^3.30.2",
@@ -72,10 +72,10 @@
     "highcharts": "^11.4.8",
     "highcharts-react-official": "^3.2.1",
     "html-to-image": "^1.11.11",
-    "langchain": "^0.2.20",
+    "langchain": "^1.5.19",
     "mui-datatables": "^4.3.0",
     "n": "^10.0.0",
-    "next": "^14.2.15",
+    "next": "^16.4.3",
     "next-auth": "^4.24.7",
     "nextstepjs": "^1.1.0",
     "papaparse": "^5.4.1",
@@ -88,8 +88,8 @@
     "react-joyride": "^2.9.2",
     "react-markdown": "^9.0.1",
     "react-papaparse": "^4.4.0",
-    "sharp": "^0.33.5",
-    "zod": "^3.23.8"
+    "sharp": "^0.35.5",
+    "zod": "^4.6.7"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
