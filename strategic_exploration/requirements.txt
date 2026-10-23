@@ -19,7 +19,7 @@ funcsigs==1.0.2
 future==0.16.0
 gast==0.2.0
 gitdb2==2.0.4
-GitPython==2.1.11
+GitPython==3.2.1
 google-compute-engine==2.8.2
 grpcio==1.14.2
 gym==0.10.5
@@ -42,7 +42,7 @@ pathlib2==2.3.2
 pbr==4.2.0
 pexpect==4.6.0
 pickleshare==0.7.4
-Pillow==5.2.0
+Pillow==13.0.0
 prompt-toolkit==1.0.15
 protobuf==3.6.1
 ptyprocess==0.6.0
@@ -74,6 +74,6 @@ torch==0.3.1
 tqdm==4.25.0
 traitlets==4.3.2
 urllib3==1.13.1
-virtualenv==16.0.0
+virtualenv==21.14.9
 wcwidth==0.1.7
 Werkzeug==0.14.1
