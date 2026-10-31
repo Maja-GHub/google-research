@@ -9,7 +9,7 @@ jax==0.3.7
 jaxlib==0.3.7
 kiwisolver==1.4.2
 matplotlib==3.5.1
-msgpack==1.0.3
+msgpack==1.2.3
 numpy==1.22.3
 opt-einsum==3.3.0
 optax==0.1.2

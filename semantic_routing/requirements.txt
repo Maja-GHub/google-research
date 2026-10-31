@@ -11,7 +11,7 @@ babel==2.16.0
 beautifulsoup4==4.12.3
 bert-tokenizer==0.1.5
 bleach==6.2.0
-certifi==2024.8.30
+certifi==2026.10.18
 cffi==1.17.1
 charset-normalizer==3.4.0
 comm==0.2.2
@@ -117,7 +117,7 @@ tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.5.0
 terminado==0.18.1
 tinycss2==1.4.0
-tornado==6.4.1
+tornado==6.6
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20241003
 typing_extensions==4.12.2

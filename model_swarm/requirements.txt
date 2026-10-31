@@ -11,7 +11,7 @@ banal==1.0.6
 beautifulsoup4==4.12.3
 blessed==1.20.0
 cachetools==5.3.3
-certifi==2024.6.2
+certifi==2026.10.18
 charset-normalizer==3.3.2
 click==8.1.7
 cmaes==0.10.0
@@ -31,12 +31,12 @@ entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643
 eval_type_backport==0.2.0
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1720869315914/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
-filelock==3.16.1
+filelock==4.2.1
 fonttools==4.53.1
 frozenlist==1.4.1
 fsspec==2024.5.0
 gitdb==4.0.11
-GitPython==3.1.43
+GitPython==3.2.1
 google==3.0.0
 google-ai-generativelanguage==0.6.6
 google-api-core==2.19.0
@@ -116,7 +116,7 @@ ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_160941
 pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1721585709575/work
 pyarrow==16.1.0
 pyarrow-hotfix==0.6
-pyasn1==0.6.0
+pyasn1==0.6.5
 pyasn1_modules==0.4.0
 pydantic==2.7.1
 pydantic_core==2.18.2

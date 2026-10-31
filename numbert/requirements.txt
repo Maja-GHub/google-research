@@ -2,7 +2,7 @@ absl-py==0.13.0
 astunparse==1.6.3
 bert-tensorflow==1.0.4
 cachetools==4.2.2
-certifi==2021.5.30
+certifi==2026.10.18
 charset-normalizer==2.0.4
 clang==5.0
 flatbuffers==1.12
@@ -17,10 +17,10 @@ keras==2.6.0
 Keras-Preprocessing==1.1.2
 Markdown==3.3.4
 numpy==1.19.5
-oauthlib==3.1.1
+oauthlib==4.0.0
 opt-einsum==3.3.0
 protobuf==3.17.3
-pyasn1==0.4.8
+pyasn1==0.6.5
 pyasn1-modules==0.2.8
 requests==2.26.0
 requests-oauthlib==1.3.0
