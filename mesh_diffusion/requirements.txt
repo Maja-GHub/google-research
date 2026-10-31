@@ -1,7 +1,7 @@
 absl-py==2.1.0
 astunparse==1.6.3
 cachetools==5.3.3
-certifi==2024.2.2
+certifi==2026.10.18
 charset-normalizer==3.3.2
 chex==0.1.85
 clu==0.0.11
@@ -29,10 +29,10 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 ml-collections==0.1.1
 ml-dtypes==0.3.2
-msgpack==1.0.8
+msgpack==1.2.3
 nest-asyncio==1.6.0
 numpy==1.26.4
-oauthlib==3.2.2
+oauthlib==4.0.0
 opt-einsum==3.3.0
 optax==0.2.1
 orbax-checkpoint==0.5.3
@@ -40,7 +40,7 @@ packaging==23.2
 pillow==10.2.0
 plyfile==1.0.3
 protobuf==4.25.3
-pyasn1==0.5.1
+pyasn1==0.6.5
 pyasn1-modules==0.3.0
 Pygments==2.17.2
 PyYAML==6.0.1

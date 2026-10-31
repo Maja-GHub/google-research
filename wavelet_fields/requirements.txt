@@ -13,7 +13,7 @@ blessings==1.7
 blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1681349778161/work
 brotlipy @ file:///home/conda/feedstock_root/build_artifacts/brotlipy_1666764652625/work
 cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1674482203741/work
-certifi==2023.5.7
+certifi==2026.10.18
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1625835293160/work
 chardet==5.1.0
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
@@ -33,7 +33,7 @@ einops==0.7.0
 exceptiongroup==1.1.1
 executing==1.2.0
 fastjsonschema==2.17.1
-filelock==3.12.2
+filelock==4.2.1
 flatbuffers==23.5.26
 fonttools==4.40.0
 freetype-py==2.4.0
@@ -41,7 +41,7 @@ frozenlist @ file:///home/conda/feedstock_root/build_artifacts/frozenlist_166793
 fsspec==2023.12.2
 future==0.18.3
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.2.1
 glcontext==2.3.7
 google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1686724583094/work
 google-auth-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/google-auth-oauthlib_1630497468950/work
@@ -134,7 +134,7 @@ psutil==5.9.5
 ptwt==0.1.6
 ptyprocess==0.7.0
 pure-eval==0.2.2
-pyasn1==0.4.8
+pyasn1==0.6.5
 pyasn1-modules==0.2.7
 pybind11 @ file:///home/conda/feedstock_root/build_artifacts/pybind11-split_1679012409253/work
 pybind11-global @ file:///home/conda/feedstock_root/build_artifacts/pybind11-split_1679012409253/work
@@ -190,7 +190,7 @@ tinycss2==1.2.1
 tomli==2.0.1
 torch==1.8.0
 torchvision==0.8.2
-tornado==6.3.2
+tornado==6.6
 tqdm @ file:///croot/tqdm_1679561862951/work
 traitlets==5.9.0
 trimesh==3.22.1

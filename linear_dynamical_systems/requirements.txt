@@ -2,7 +2,7 @@ absl-py==0.7.1
 autograd==1.2
 backports.functools-lru-cache==1.5
 cachetools==3.1.0
-certifi==2019.3.9
+certifi==2026.10.18
 chardet==3.0.4
 cycler==0.10.0
 Cython==0.29.6
@@ -17,7 +17,7 @@ numpy==1.16.2
 pandas==0.24.2
 patsy==0.5.1
 protobuf==3.7.1
-pyasn1==0.4.5
+pyasn1==0.6.5
 pyasn1-modules==0.2.5
 pybasicbayes==0.2.2
 pylds==0.0.5
